@@ -1,6 +1,6 @@
 {
-  "name": "@superset-ui/preset-chart-xy",
-  "version": "0.15.19",
+  "name": "@arthanasti/preset-chart-xy",
+  "version": "1.0.0",
   "description": "Superset Chart - XY",
   "sideEffects": [
     "*.css"
@@ -19,19 +19,19 @@
   "keywords": [
     "superset"
   ],
-  "author": "Superset",
+  "author": "Arthanadftz",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/apache-superset/superset-ui/issues"
+    "url": "https://github.com/Arthanadftz/superset-ui/issues"
   },
-  "homepage": "https://github.com/apache-superset/superset-ui#readme",
+  "homepage": "https://github.com/Arthanadftz/superset-ui#readme",
   "publishConfig": {
     "access": "public"
   },
   "dependencies": {
     "@data-ui/theme": "^0.0.84",
     "@data-ui/xy-chart": "^0.0.84",
-    "@superset-ui/chart-controls": "0.15.19",
+    "@superset-ui/chart-controls": "1.0.0",
     "@superset-ui/core": "0.15.19",
     "@vx/axis": "^0.0.198",
     "@vx/legend": "^0.0.198",
